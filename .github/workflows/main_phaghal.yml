@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'phaghal'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AA0EF919B7CA4057A37D564712B32134 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_653C112B4ECD417DB06E6C7E93D91741 }}
           package: .
